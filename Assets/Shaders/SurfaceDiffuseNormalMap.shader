@@ -37,6 +37,7 @@
                 o.Albedo = texColor.rgb * _Albedo;
                 o.Normal = UnpackNormal(bumpColor);
             }
+            
         ENDCG
     }
 }
