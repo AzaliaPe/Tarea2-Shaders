@@ -1,4 +1,4 @@
-﻿Shader "Custoom/SDCustomLambert"
+﻿Shader "Custom/SDCustomLambert"
 {
     Properties
     {
