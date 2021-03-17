@@ -15,8 +15,9 @@
     }
 
     //Cull Back //Se ve lo de afuera pero si te vas hacia adentro no se ve nada. En un plano se ve lo de atrás.
-    // Cull Front //Se usa para presentaciones, como cuando en un cubo solo quieres ver lo de adentro y se ve como paredes. En un plano no se ve el frente.
-    Cull Off //Esto hace que todo sea visible.
+    Cull Front //Se usa para presentaciones, como cuando en un cubo solo quieres ver lo de adentro y se ve como paredes. En un plano no se ve el frente.
+    // Cull Off //Esto hace que todo sea visible.
+    Blend SrcAlpha OneMinusSrcAlpha
 
     Pass
     {

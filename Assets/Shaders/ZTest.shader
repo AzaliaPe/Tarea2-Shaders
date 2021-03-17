@@ -19,6 +19,7 @@
     //ZTest LEqual
 
     Cull Off
+    Blend SrcAlpha OneMinusSrcAlpha
 
     Pass
     {
