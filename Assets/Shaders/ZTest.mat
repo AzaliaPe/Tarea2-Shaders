@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CullingEffect
-  m_Shader: {fileID: 4800000, guid: f3fd419e37adffa4892f9e0e3dbfb129, type: 3}
+  m_Name: ZTest
+  m_Shader: {fileID: 4800000, guid: 5246ae4b626207147ab1b7ed34c75a5f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
